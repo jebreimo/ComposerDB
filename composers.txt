@@ -19,8 +19,9 @@ Nin; Joaquín; Cuba; 1879; 1949;
 Ore; Cecilie; Norge; 1954; ;
 Orr; Buxton; England; 1924; 1997;
 Pot; Francis; England; 1957; ;
-Puy; Jean Baptiste Édouard Du; Danmark; ; ;
+Puy; Jean Baptiste Édouard Du; Sveits, Danmark; 1770; 1822;
 Roe; Betty; England; 1930; ;
+Sor; Fernando; Spania; 1778; 1839; Gitar
 Suk; Josef; Tsjekkia; 1874; 1935;
 Vea; Ketil; Norge; 1932; ;
 
@@ -87,6 +88,8 @@ Kvam; Oddvar S.; Norge; 1927; 2016;
 Lalo; Édouard; Frankrike; 1823; 1892;
 Laub; Thomas; Danmark; ; ;
 Lund; Signe; Norge; 1868; 1950;
+Maza; Eduardo Sainz De La; Spania; 1903; 1982; Gitar
+Maza; Regino Sainz de la; Spania; 1896; 1981; Gitar
 Ness; Jon Øivind; Norge; 1968; ;
 Nunn; Patrick; England; 1969; ;
 Olin; Elisabeth; Sverige; ; ;
@@ -245,7 +248,7 @@ March; Andrew; England; 1973; ;
 Mason; Benedict; England; 1954; ;
 Mason; Grace Evangeline; England; 1994; ;
 Mawby; Colin; England; 1936; 2019;
-Mazur; Marilyn; Danmark; ; ;
+Mertz; Johann Kaspar; Slovakia, Østerrike; 1806; 1856; Gitar
 Monti; Vittorio; Italia; 1868; 1922; Csárdás
 Moody; Ivan; England; 1964; 2024;
 Moret; Norbert; Sveits; 1921; 1998;
@@ -466,6 +469,7 @@ Laurin; Anna-Lena; Sverige; ; ;
 Lemare; Edwin; England; 1866; 1934;
 Ligeti; György; Ungarn; 1923; 2006;
 Linnet; Anne; Danmark; ; ;
+Ljadov; Anatolij; Russland; 1855; 1914;
 Lumbye; Hans Christian; Danmark; 1810; 1874;
 Lundén; Tom; Danmark; ; ;
 Löfman; Henriette; Sverige; ; ;
@@ -587,6 +591,7 @@ Bologne; Joseph; Frankrike; 1745; 1799; Chevalier de Saint-Georges, "Black Mozar
 Borodin; Aleksandr; Russland; 1833; 1887;
 Britten; Benjamin; England; 1913; 1976;
 Britten; Benjamin; Storbritannia; 1913; 1976;
+Brouwer; Leo; Cuba; 1939; ; Gitar
 Brubeck; Dave; USA; 1920; 2012; Jazz, Blue Rondo a la Turk
 Brustad; Bjarne; Norge; 1895; 1978;
 Brustad; Karsten; Norge; 1959; ;
@@ -1079,6 +1084,7 @@ Rasmussen; Karl Aage; Danmark; ; ;
 Reissiger; Friedrich August; Tyskland, Norge; 1809; 1883;
 Rosenberg; Hilding; Sverige; ; ;
 Rosenfeld; Leopold; Danmark; ; ;
+Ruiz-Pipó; Antonio; Spania; 1934; 1997;
 Sainsbury; Lionel; England; 1958; ;
 Samuelson; Mikael; Sverige; ; ;
 Sandström; Jan; Sverige; ; ;
@@ -1245,6 +1251,9 @@ Rimskij-Korsakov; Nikolaj; Russland; 1844; 1908;
 17
 Malmlöf-Forssling; Carin; Sverige; ; ;
 Wennerberg-Reuter; Sara; Sverige; ; ;
+
+19
+Castelnuovo-Tedesco; Mario; Italia; 1895; 1968; Gitar
 
 20
 Gudmundsen-Holmgreen; Pelle; Danmark; 1932; 2016;
