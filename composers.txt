@@ -504,6 +504,7 @@ Pleyel; Ignaz Joseph; Østerike; 1757; 1831;
 Porter; Cole Albert; USA; 1891; 1964;
 Powell; John; England; 1963; ;
 Powell; Jonathan; England; 1969; ;
+Quantz; Johann Joachim; Tyskland; 1697; 1773; Fløytelærer til Frederik den store
 Rameau; Jean-Philippe; Frankrike; 1683; 1764;
 Ratkje; Maja; Norge; 1973; ;
 Reesen; Emil; Danmark; ; ;
