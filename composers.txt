@@ -45,6 +45,7 @@ Blom; Christian; Norge; 1782; 1861; Sønner av Norge
 Borg; Kim; Danmark; ; ;
 Borg; Oscar; Norge; 1851; 1930;
 Bray; Charlotte; England; 1982; ;
+Brel; Jaque; Belgia; 1929; 1978; Sanger
 Buck; Ole; Danmark; ; ;
 Bull; Edvard Hagerup; Norge; 1922; 2012;
 Bull; John; Storbritannia; 1562; 1628; "God Save the Queen"
@@ -419,6 +420,7 @@ Gowers; Patrick; England; 1936; 2014;
 Grange; Philip; England; 1956; ;
 Grothe; Georg; Danmark; ; ;
 Groven; Eivind; Norge; 1901; 1977;
+Groven; Sigmund; Norge; 1946; ; Munnspill
 Gruber; Franz Xaver; Østerrike; 1787; 1863; "Glade Jul"
 Grétry; André; Frankrike; 1741; 1813; Smaagutternes nationalsang, født i Belgia
 Gurney; Ivor; England; 1890; 1937;
@@ -856,6 +858,7 @@ Gyldmark; Hugo; Danmark; ; ;
 Gyldmark; Sven; Danmark; ; ;
 Haarklou; Johannes; Norge; 1847; 1925;
 Hallager; Andreas; Danmark; ; ;
+Hallberg; Bengt; Sverige; 1932; 2013; TV- og filmmusikk, jazz
 Hartmann; August Wilhelm; Danmark; ; ;
 Hartmann; Emil; Danmark; ; ;
 Hartmann; Emma; Danmark; ; ;
