@@ -1185,6 +1185,7 @@ Gubajdulina; Sofija; Russland; 1931; ;
 Hellstenius; Henrik; Norge; 1963; ;
 Hildebrandt; Christian; Danmark; ; ;
 Hillebrandt; Niels Peter; Danmark; ; ;
+Hoffmeister; Franz Anton; Østerrike; 1754; 1812; Også forlegger
 Humperdinck; Engelbert; Tyskland; 1854; 1921;
 Hye-Knudsen; Johan; Danmark; ; ;
 Islandsmoen; Sigurd; Norge; 1881; 1964;
