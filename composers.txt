@@ -232,7 +232,7 @@ Jones; Robert; England; 1577; 1617; Jones II
 Kraus; Joseph Martin; Tyskland, Sverige; 1756; 1792;
 Kruse; Bjørn Howard; Norge; 1946; ;
 Kærså; Morten; Danmark; ; ;
-Lasso; Orlando di; Frankrike; 1532; 1594;
+Lasso; Orlando di; Belgia; 1532; 1594;
 Lehár; Franz; Tyskland; 1870; 1948;
 Leigh; Walter; England; 1905; 1942;
 Linde; Bo; Sverige; ; ;
@@ -1009,6 +1009,7 @@ Blackford; Richard; England; 1954; ;
 Boieldieu; François-Adrien; Frankrike; 1775; 1834; Operaer
 Boldemann; Laci; Sverige; ; ;
 Borgstrøm; Hjalmar; Norge; 1864; 1925;
+Bottesini; Giovanni; Italia; 1821; 1889; "Kontrabassens Paganini"
 Boulanger; Lili; Frankrike; 1893; 1918;
 Boulanger; Nadia; Frankrike; 1887; 1979;
 Bourgeois; Derek; England; 1941; 2017;
@@ -1093,6 +1094,7 @@ Sainsbury; Lionel; England; 1958; ;
 Samuelson; Mikael; Sverige; ; ;
 Sandström; Jan; Sverige; ; ;
 Sandström; Sven-David; Sverige; ; ;
+Scarlatti; Alessandro; Italia; 1660; 1725;
 Scarlatti; Domenico; Italia; 1685; 1757;
 Schaathun; Asbjørn; Norge; 1961; ;
 Schindler; Poul Christian; Danmark; ; ;
