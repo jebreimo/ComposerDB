@@ -93,30 +93,31 @@ Maza; Eduardo Sainz De La; Spania; 1903; 1982; Gitar
 Maza; Regino Sainz de la; Spania; 1896; 1981; Gitar
 Ness; Jon Øivind; Norge; 1968; ;
 Nunn; Patrick; England; 1969; ;
-Olin; Elisabeth; Sverige; ; ;
+Olin; Elisabeth; Sverige; 1740; 1828; Operasanger
 Oram; Daphne; England; 1925; 2003;
 Orff; Carl; Tyskland; 1895; 1982;
-Pade; Else Marie; Danmark; ; ;
-Pade; Steen; Danmark; ; ;
+Pade; Else Marie; Danmark; 1924; 2016;
+Pade; Steen; Danmark; 1956; ;
 Prés; Josquin des; Frankrike; 1450; 1521; egentlig Lebloitte, også Des Prez og Desprez
 Pärt; Arvo; Estland; 1935; ;
-Rabe; Folke; Sverige; ; ;
+Rabe; Folke; Sverige; 1935; 2017;
 Ries; Ferdinand; Tyskland; 1784; 1838; "Beethoven's right hand man"
 Rihm; Wolfgang; Tyskland; 1952; ;
-Ring; Oluf; Danmark; ; ;
+Ring; Oluf; Danmark; 1884; 1946;
 Rota; Nino; Italia; 1911; 1979; Filmmusikk, Gudfaren
-Rung; Frederik; Danmark; ; ;
-Rung; Henrik; Danmark; ; ;
+Rung; Frederik; Danmark; 1854; 1914;
+Rung; Henrik; Danmark; 1807; 1871;
 Sanz; Gaspar; Spania; 1640; 1710;
 Shaw; Christopher; England; 1925; 1995;
 Siem; Sasha; England; 1984; ;
-Skov; Kira; Danmark; ; ;
-Sund; John; Danmark; ; ;
+Skov; Kira; Danmark; 1976; ;
+Sund; John; Danmark; 1957; ;
 Tate; Phyllis; England; 1911; 1987;
+Ulvo; Therese Birkelund; Norge; 1982; ;
 Wade; John Francis; Storbritannia; 1711; 1786;
 Weir; Judith; England; 1954; ;
-Weis; Flemming; Danmark; ; ;
-West; Tue; Danmark; ; ;
+Weis; Flemming; Danmark; 1898; 1981;
+West; Tue; Danmark; 1977; ;
 Wolf; Hugo; Tyskland; 1860; 1903; Lieder
 
 5
@@ -1021,9 +1022,9 @@ Cannabich; Johann Christian Innocenz Bonaventura; Tyskland; 1731; 1798;
 Carwithen; Doreen; England; 1922; 2003;
 Chaminade; Cécile; Frankrike; 1857; 1944;
 Cherubini; Luigi; Italia; 1760; 1842;
-Churchill; Frank; USA; 1901; 1942; Disney-tegngefilmer
-Cornelius; Victor; Danmark; ; ;
-Croubelis; Simoni Dall; Danmark; ; ;
+Churchill; Frank; USA; 1901; 1942; Disney-tegnefilmer
+Cornelius; Victor; Danmark; 1897; 1961;
+Croubelis; Simoni Dall; Danmark; 1727; 1790;
 Dickinson; Peter; England; 1934; 2023;
 Donizetti; Gaetano; Italia; 1797; 1848;
 Ecchienus; Caspar; Norge; 1550; 1600;
