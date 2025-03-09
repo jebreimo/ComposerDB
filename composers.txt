@@ -2,19 +2,19 @@
 Åm; Magnar; Norge; 1952; ;
 
 3
-Bai; Kasper; Danmark; ; ;
-Bak; Frans; Danmark; ; ;
+Bai; Kasper; Danmark; 1974; ;
+Bak; Frans; Danmark; 1958; ;
 Bax; Arnold; England; 1883; 1953;
-Bay; Rudolph; Danmark; ; ;
+Bay; Rudolph; Danmark; 1791; 1856;
 Cui; César Antonovich; Russland; 1835; 1918;
-Eje; Niels; Danmark; ; ;
-Hak; Mads; Danmark; ; ;
-Kyd; Jesper; Danmark; ; ;
+Eje; Niels; Danmark; 1954; ;
+Hak; Mads; Danmark; 1500; 1555;
+Kyd; Jesper; Danmark; 1972; ;
 Kyr; Robert Harry; USA; 1952; ;
 Lie; Harald; Norge; 1902; 1942;
 Lie; Sigurd; Norge; 1871; 1904;
 Maw; Nicholas; England; 1935; 2009;
-Moe; Benna; Danmark; ; ;
+Moe; Benna; Danmark; 1897; 1983;
 Nin; Joaquín; Cuba; 1879; 1949;
 Ore; Cecilie; Norge; 1954; ;
 Orr; Buxton; England; 1924; 1997;
