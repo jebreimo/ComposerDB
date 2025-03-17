@@ -62,32 +62,32 @@ Dahl; Balduin; Danmark; 1834; 1891;
 Davy; Richard; England; 1465; 1507;
 Dove; Jonathan; England; 1959; ;
 Egge; Klaus; Norge; 1906; 1979;
-Enna; August; Danmark; ; ;
+Enna; August; Danmark; 1859; 1939;
 Flem; Kjell; Norge; 1943; ;
 Ford; Thomas; England; 1580; 1648;
-Foss; Julius; Danmark; ; ;
-Gade; Axel; Danmark; ; ;
+Foss; Julius; Danmark; 1879; 1953;
+Gade; Axel; Danmark; 1860; 1921;
 Gade; Jacob; Danmark; 1879; 1963; Jalousie "Tango Tzigane"
 Gade; Niels Wilhelm; Danmark; 1817; 1890;
-Gram; Peder; Danmark; ; ;
+Gram; Peder; Danmark; 1881; 1956;
 Hahn; Reynaldo; Frankrike; 1874; 1947; Født i Venezuela
 Hall; Pauline; Norge; 1890; 1969;
 Haug; Halvor; Norge; 1952; ;
-Holm; Ludvig; Danmark; ; ;
-Holm; Mogens Winkel; Danmark; ; ;
-Holm; Vilhelm Christian; Danmark; ; ;
+Holm; Ludvig; Danmark; 1858; 1928;
+Holm; Mogens Winkel; Danmark; 1936; 1999;
+Holm; Vilhelm Christian; Danmark; 1820; 1886;
 Holt; Simon; England; 1958; ;
-Hägg; Gustaf; Sverige; ; ;
-Hägg; Jacob Adolf; Sverige; ; ;
+Hägg; Gustaf; Sverige; 1867; 1925;
+Hägg; Jacob Adolf; Sverige; 1850; 1928;
 Ives; Charles; USA; 1874; 1954;
 Ives; Grayston; England; 1948; ;
 Jouy; Anne Louise Brillon de; Frankrike; 1744; 1824;
 Kern; Jerome David; USA; 1885; 1945; Musicals
-Koch; Erland von; Sverige; ; ;
-Koch; Jesper; Danmark; ; ;
+Koch; Erland von; Sverige; 1910; 2009;
+Koch; Jesper; Danmark; 1967; ;
 Kvam; Oddvar S.; Norge; 1927; 2016;
 Lalo; Édouard; Frankrike; 1823; 1892;
-Laub; Thomas; Danmark; ; ;
+Laub; Thomas; Danmark; 1852; 1927;
 Lund; Signe; Norge; 1868; 1950;
 Maza; Eduardo Sainz De La; Spania; 1903; 1982; Gitar
 Maza; Regino Sainz de la; Spania; 1896; 1981; Gitar
