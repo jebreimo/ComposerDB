@@ -373,6 +373,7 @@ Davies; Peter Maxwell; England; 1934; 2016;
 Davies; Tansy; England; 1973; ;
 Davies; Walford; England; 1869; 1941;
 Debois; Christian; Danmark; ; ;
+Delbos; Claire; Frankrike; 1906; 1959; Louise-Justine Messiaen
 Delius; Frederick; England; 1862; 1934;
 Denyer; Frank; England; 1943; ;
 Diesel; Nathanael; Danmark; ; ;
@@ -926,6 +927,7 @@ Massenet; Jules; Frankrike; 1842; 1912;
 Matthews; Colin; England; 1946; ;
 Matthews; David; England; 1943; ;
 McDowall; Cecilia; England; 1951; ;
+Messiaen; Louise-Justine; Frankrike; 1906; 1959; Claire Delbos
 Messiaen; Olivier; Frankrike; 1908; 1992;
 Mogensen; John; Danmark; ; ;
 Moseholm; Erik; Danmark; ; ;
