@@ -62,32 +62,32 @@ Dahl; Balduin; Danmark; 1834; 1891;
 Davy; Richard; England; 1465; 1507;
 Dove; Jonathan; England; 1959; ;
 Egge; Klaus; Norge; 1906; 1979;
-Enna; August; Danmark; ; ;
+Enna; August; Danmark; 1859; 1939;
 Flem; Kjell; Norge; 1943; ;
 Ford; Thomas; England; 1580; 1648;
-Foss; Julius; Danmark; ; ;
-Gade; Axel; Danmark; ; ;
+Foss; Julius; Danmark; 1879; 1953;
+Gade; Axel; Danmark; 1860; 1921;
 Gade; Jacob; Danmark; 1879; 1963; Jalousie "Tango Tzigane"
 Gade; Niels Wilhelm; Danmark; 1817; 1890;
-Gram; Peder; Danmark; ; ;
+Gram; Peder; Danmark; 1881; 1956;
 Hahn; Reynaldo; Frankrike; 1874; 1947; Født i Venezuela
 Hall; Pauline; Norge; 1890; 1969;
 Haug; Halvor; Norge; 1952; ;
-Holm; Ludvig; Danmark; ; ;
-Holm; Mogens Winkel; Danmark; ; ;
-Holm; Vilhelm Christian; Danmark; ; ;
+Holm; Ludvig; Danmark; 1858; 1928;
+Holm; Mogens Winkel; Danmark; 1936; 1999;
+Holm; Vilhelm Christian; Danmark; 1820; 1886;
 Holt; Simon; England; 1958; ;
-Hägg; Gustaf; Sverige; ; ;
-Hägg; Jacob Adolf; Sverige; ; ;
+Hägg; Gustaf; Sverige; 1867; 1925;
+Hägg; Jacob Adolf; Sverige; 1850; 1928;
 Ives; Charles; USA; 1874; 1954;
 Ives; Grayston; England; 1948; ;
 Jouy; Anne Louise Brillon de; Frankrike; 1744; 1824;
 Kern; Jerome David; USA; 1885; 1945; Musicals
-Koch; Erland von; Sverige; ; ;
-Koch; Jesper; Danmark; ; ;
+Koch; Erland von; Sverige; 1910; 2009;
+Koch; Jesper; Danmark; 1967; ;
 Kvam; Oddvar S.; Norge; 1927; 2016;
 Lalo; Édouard; Frankrike; 1823; 1892;
-Laub; Thomas; Danmark; ; ;
+Laub; Thomas; Danmark; 1852; 1927;
 Lund; Signe; Norge; 1868; 1950;
 Maza; Eduardo Sainz De La; Spania; 1903; 1982; Gitar
 Maza; Regino Sainz de la; Spania; 1896; 1981; Gitar
@@ -121,18 +121,18 @@ West; Tue; Danmark; 1977; ;
 Wolf; Hugo; Tyskland; 1860; 1903; Lieder
 
 5
-Abell; David; Danmark; ; ;
-Abras; Juan Manuel; Sverige; ; ;
+Abell; David; Danmark; 1510?; 1576;
+Abras; Juan Manuel; Sverige; 1975; ;
 Adams; John Coolidge; USA; 1947; ;
-Allen; Georg Frederik Ferdinand; Danmark; ; ;
-Allen; Robert William Otto; Danmark; ; ;
-Allin; Arthur Ivan; Danmark; ; ;
+Allen; Georg Frederik Ferdinand; Danmark; 1856; 1925;
+Allen; Robert William Otto; Danmark; 1852; 1888;
+Allin; Arthur Ivan; Danmark; 1847; 1926;
 Alnæs; Eyvind; Norge; 1872; 1932;
 Alwyn; William; England; 1905; 1985;
-Anker; Lotte; Danmark; ; ;
+Anker; Lotte; Danmark; 1958; ;
 Auber; Daniel-François; Frankrike; 1782; 1871; Opera
-Aulin; Tor; Sverige; ; ;
-Aulin; Valborg; Sverige; ; ;
+Aulin; Tor; Sverige; 1866; 1914;
+Aulin; Valborg; Sverige; 1860; 1928;
 Baden; Conrad; Norge; 1908; 1989;
 Bakke; Ruth; Norge; 1947; ;
 Balle; Carl Christian Nicolaj; Danmark; 1806; 1855;
@@ -172,17 +172,17 @@ Carse; Adam; England; 1878; 1958;
 Cleve; Halvdan; Norge; 1879; 1953;
 Cooke; Arnold; England; 1906; 2005;
 Cowie; Edward; England; 1943; ;
-Crome; Fritz; Danmark; ; ;
-Degen; Søffren; Danmark; ; ;
+Crome; Fritz; Danmark; 1879; 1948;
+Degen; Søffren; Danmark; 1816; 1885;
 Denza; Luigi; Italia; 1846; 1922; "Funiculì, Funiculà"
 Doyle; Patrick; England; 1953; ;
 Dring; Madeleine; England; 1923; 1977;
 Dukas; Paul; Frankrike; 1865; 1935;
 Dyrud; Torbjørn; Norge; 1974; ;
 Dyson; George; England; 1883; 1964;
-Düben; Anders von (the younger); Sverige; ; ;
-Düben; Andreas; Sverige; ; ;
-Düben; Gustaf; Sverige; ; ;
+Düben; Anders von (the younger); Sverige; 1673; 1738;
+Düben; Andreas; Tyskland, Sverige; 1597; 1662;
+Düben; Gustaf; Sverige; 1628; 1690;
 Eggen; Arne; Norge; 1881; 1955;
 Eggen; Christian; Norge; 1957; ;
 Elgar; Edward; England; 1857; 1934;
@@ -193,15 +193,15 @@ Fauré; Gabriel; Frankrike; 1845; 1924;
 Fenby; Eric; England; 1906; 1997;
 Field; John; Irland; 1782; 1837; nokturner for klaver
 Finzi; Gerald; England; 1901; 1956;
-Funck; Frederik Christian; Danmark; ; ;
-Funck; Peter Ferdinand; Danmark; ; ;
+Funck; Frederik Christian; Danmark; 1783; 1866;
+Funck; Peter Ferdinand; Danmark; 1788; 1859;
 Fučík; Julius; Tsjekkia; 1872; 1916; marsjer
 Gaarn; Birger Wøllner; Danmark; 1881; 1949;
-Geist; Christian; Danmark; ; ;
+Geist; Christian; Tyskland, Danmark; 1640; 1711;
 Gibbs; Armstrong; England; 1889; 1960;
 Gipps; Ruth; England; 1921; 1999;
-Glass; Christian Henrik; Danmark; ; ;
-Glass; Louis; Danmark; ; ;
+Glass; Christian Henrik; Danmark; 1821; 1893;
+Glass; Louis; Danmark; 1864; 1936;
 Glass; Philip; USA; 1937; ;
 Gluck; Christoph Willibald; Tyskland; 1714; 1787;
 Goehr; Alexander; England; 1932; 2024;
@@ -285,23 +285,23 @@ Smyth; Ethel; England; 1858; 1944;
 Sousa; John Philip; USA; 1854; 1932;
 Spohr; Louis; Tyskland; 1784; 1859;
 Steel; Christopher; England; 1938; 1991;
-Stief; Bo; Danmark; ; ;
+Stief; Bo; Danmark; 1946; ;
 Strøm; Alf Gotlin; Norge; 1922; ;
 Suppé; Franz von; Østerrike; 1819; 1895;
 Taube; Evert; Sverige; 1890; 1976;
 Tauro; Erna; Finland, Sverige; 1916; 1993;
-Thybo; Leif; Danmark; ; ;
+Thybo; Leif; Danmark; 1922; 2001;
 Tovey; Donald; England; 1875; 1940;
-Tubin; Eduard; Sverige; ; ;
+Tubin; Eduard; Estland, Sverige; 1905; 1982;
 Udbye; Martin Andreas; Norge; 1820; 1911;
-Uddén; Åke; Sverige; ; ;
+Uddén; Åke; Sverige; 1903; 1987;
 Vaage; Knut; Norge; 1961; ;
 Valen; Fartein; Norge; 1887; 1952;
 Verdi; Guiseppe; Italia; 1813; 1901;
 Vinci; Leonardo; Italia; 1690; 1730; Operaer
-Viney; Sophie; England; 1974; ;[2]
+Viney; Sophie; England; 1974; ;
 Vitry; Philippe de; Frankrike; 1291; 1361;
-Vogel; Karsten; Danmark; ; ;
+Vogel; Karsten; Danmark; 1943; ;
 Weber; Carl Maria von; Tyskland; 1786; 1826;
 Weill; Kurt; Tyskland; 1900; 1950;
 Weyse; Christoph Ernst Friedrich; Danmark; 1774; 1842;
@@ -313,8 +313,8 @@ Winge; Per; Norge; 1858; 1935;
 Wirén; Dag; Sverige; 1905; 1986;
 Young; Percy Marshall; England; 1912; 2004;
 Ysaÿe; Eugène-Auguste; Belgia; 1858; 1931; Fiolin
-Zinck; Hardenack Otto Conrad; Danmark; ; ;
-Åberg; Jan Håkan; Sverige; ; ;
+Zinck; Hardenack Otto Conrad; Tyskland, Danmark; 1746; 1832;
+Åberg; Jan Håkan; Sverige; 1916; 2012;
 
 6
 Agerby; Aksel; Danmark; 1889; 1942; "Jeg er havren"
@@ -798,19 +798,19 @@ Youmans; Vincent; USA; 1898; 1946;
 Agersnap; Harald; Danmark; ; ;
 Ahlström; Jacob Niclas; Sverige; ; ;
 Almqvist; Carl Jonas Love; Sverige; ; ;
-Andersen; Aksel; Danmark; ; ;
-Andersen; Arvid; Danmark; ; ;
-Andersen; Benny; Danmark; ; ;
-Andersen; Daniel; Danmark; ; ;
-Andersen; Eyvin; Danmark; ; ;
-Andersen; Fritz; Danmark; ; ;
-Andersen; Hakon; Danmark; ; ;
-Andersen; Joachim; Danmark; ; ;
-Andersen; Johannes; Danmark; ; ;
-Andersen; Kai Normann; Danmark; ; ;
+Andersen; Aksel; Danmark; 1912; 1977;
+Andersen; Arvid; Danmark; 1909; 1970;
+Andersen; Benny; Danmark; 1929; 2018;
+Andersen; Daniel; Danmark; 1885; 1959;
+Andersen; Eyvin; Danmark; 1914; 1968;
+Andersen; Fritz; Danmark; 1829; 1910;
+Andersen; Hakon; Danmark; 1875; 1959;
+Andersen; Joachim; Danmark; 1847; 1909;
+Andersen; Johannes; Danmark; 1890; 1980;
+Andersen; Kai Normann; Danmark; 1900; 1967;
 Andersen; Karl; Norge; 1903; 1970;
 Andersen; Kjell Magne; Norge; 1954; ;
-Andersen; Sophus; Danmark; ; ;
+Andersen; Sophus; Danmark; 1859; 1923;
 Anderson; Julian; England; 1967; ;
 Anderson; Leroy; USA; 1908; 1975;
 Banfield; Raffaello de; England; 1922; 2008;
