@@ -1,3 +1,44 @@
+Händel
+Bach
+Strauss
+7 Sibelius?
+Joseph Haydn
+Amadeus Mozart
+11 Mendelssohn
+
+HAREPUS
+
+Legrand
+Puccini - Crisantemi
+Canteloube
+Grieg
+9 fornavn
+Rameau
+Purcell
+Piazzolla
+
+LUNE.ULL
+Lunefull
+
+Tellefsen - piano
+Bach - cello
+Elling - fiolin
+Weber - klarinett
+Haydn - horn
+Mozart - trompet
+
+TALENT
+
+Franz Schubert -
+Joseph Haydn -
+Aaron Copland - Appalachian Spring
+Gershwin -
+Stravinskij - Ildfuglen
+Leoncavallo - Mattinata
+Borgstrøm - Fiolinkonsert
+
+FORSVAR
+
 Saint-Saëns - Dyrenes karneval
 Sønstevold -
 Satie - Je te veux
@@ -7,7 +48,7 @@ Rautavaara - Sérénade pour la vie
 Duruflé - Requiem
 Schönberg - Les miserables
 
-SØTSAK.R
+SØTSAKER
 
 Skrjabin
 Ravel - Le Tombeau de Couperin
