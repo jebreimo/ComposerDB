@@ -113,12 +113,14 @@ Siem; Sasha; England; 1984; ;
 Skov; Kira; Danmark; 1976; ;
 Sund; John; Danmark; 1957; ;
 Tate; Phyllis; England; 1911; 1987;
+Tůma; František; Tsjekkia; 1704; 1774;
 Ulvo; Therese Birkelund; Norge; 1982; ;
 Wade; John Francis; Storbritannia; 1711; 1786;
 Weir; Judith; England; 1954; ;
 Weis; Flemming; Danmark; 1898; 1981;
 West; Tue; Danmark; 1977; ;
 Wolf; Hugo; Tyskland; 1860; 1903; Lieder
+Zach; Jan; Tsjekkia; 1713; 1773;
 
 5
 Abell; David; Danmark; 1510?; 1576;
@@ -132,7 +134,7 @@ Alwyn; William; England; 1905; 1985;
 Anker; Lotte; Danmark; 1958; ;
 Auber; Daniel-François; Frankrike; 1782; 1871; Opera
 Aulin; Tor; Sverige; 1866; 1914;
-Aulin; Valborg; Sverige; 1860; 1928;
+Aulin; Laura Valborg; Sverige; 1860; 1928;
 Baden; Conrad; Norge; 1908; 1989;
 Bakke; Ruth; Norge; 1947; ;
 Balle; Carl Christian Nicolaj; Danmark; 1806; 1855;
@@ -279,6 +281,7 @@ Satie; Erik; Frankrike; 1866; 1925;
 Sawer; David; England; 1961; ;
 Schop; Johann; Tyskland; 1590; 1667;
 Scott; Cyril; England; 1879; 1970;
+Seger; Josef; Tsjekkia; 1716; 1782;
 Sevåg; Øystein; Norge; 1957; ;
 Sköld; Yngve; Sverige; 1899; 1992;
 Smith; Dave; England; 1949; ;
@@ -319,7 +322,7 @@ Zinck; Hardenack Otto Conrad; Tyskland, Danmark; 1746; 1832;
 
 6
 Agerby; Aksel; Danmark; 1889; 1942; "Jeg er havren"
-Agrell; Johan; Sverige; ; ;
+Agrell; Johan; Sverige; 1701; 1767;
 Alford; Kenneth J.; Storbritannia; 1881; 1945; Egentlig Frederick Joseph Ricketts
 Alfvén; Hugo; Sverige; 1872; 1960;
 Alsted; Birgitte; Danmark; ; ;
@@ -337,6 +340,7 @@ Austin; Fritz; Norge; 1915; 1961;
 Baines; William; England; 1899; 1922;
 Barber; Samuel; USA; 1910; 1981;
 Bartók; Béla; Ungarn; 1881; 1945;
+Beaser; Robert; USA; 1954; ;
 Bendix; Victor; Danmark; ; ;
 Berens; Hermann; Sverige; ; ;
 Berlin; Irving; USA; 1888; 1989;
@@ -497,7 +501,7 @@ Mozart; Leopold; Østerrike; 1719; 1787;
 Mozart; Wolfgang Amadeus; Østerrike; 1756; 1791;
 Muffat; Georg; Frankrike; 1653; 1704;
 Möller; Johannes; Sverige; ; ;
-Neruda; Franz Xaver; Danmark; ; ;
+Neruda; Franz Xaver; Danmark; 1843; 1915;
 Neruda; Johann Baptist Georg; Tsjekkia; 1708; 1780;
 Netzel; Laura; Sverige; ; ;
 Newson; George; England; 1932; 2024;
@@ -695,7 +699,8 @@ Kjerulf; Halfdan; Norge; 1815; 1868;
 Kjøller; Povl; Danmark; ; ;
 Knudsen; Werner; Danmark; ; ;
 Knussen; Oliver; England; 1952; 2018;
-Kolberg; Kåre; Norge; 1936; ;
+Kolberg; Kåre; Norge; 1936; 2014;
+Koželuh; Jan Antonín; Tsjekkia; 1738; 1814;
 Kvandal; Johan; Norge; 1919; 1999;
 Lambert; Constant; England; 1905; 1951;
 Lammers; Thorvald; Norge; 1841; 1922;
@@ -830,6 +835,7 @@ Blomdahl; Karl-Birger; Sverige; ; ;
 Bohlmann; Georg Carl; Danmark; ; ;
 Bondesen; Jørgen Ditleff; Danmark; ; ;
 Boughton; Rutland; England; 1878; 1960;
+Brioschi; Antonio; Italia; 1725; 1750;
 Bruckner; Anton; Østerrike; 1824; 1896;
 Bundesen; Michael; Danmark; ; ;
 Børresen; Hakon; Danmark; ; ;
@@ -958,6 +964,8 @@ Sandberg; Thomas; Danmark; 1967; ;
 Sandvold; Arild; Norge; 1895; 1984;
 Sarasate; Pablo de; Spania; 1844; 1908;
 Saunders; Rebecca; England; 1967; ;
+Schubert; François; Tyskland; 1808; 1878; Egentlig navn: Franz Anton d.y.
+Schubert; Franz Anton; Tyskland; 1768; 1827; Far til François
 Schubert; Franz; Østerrike; 1797; 1828;
 Schumann; Clara; Tyskland; 1819; 1896;
 Schumann; Robert; Tyskland; 1810; 1856;
@@ -988,6 +996,7 @@ Tombelle; Fernand de La; Frankrike; 1854; 1928;
 Truscott; Harold; England; 1914; 1992;
 Ulfrstad; Marius Moaritz; Norge; 1890; 1968;
 Vajnberg; Moisej; Russland; 1919; 1996; Mieczysław Weinberg, født i Polen
+Vallotti; Francesco Antonio; Italia; 1697; 1780;
 Venables; Ian; England; 1955; ;
 Veracini; Antonio; Italia; 1659; 1733;
 Veracini; Francesco Maria; Italia; 1690; 1768; Fiolinsonater
@@ -1164,6 +1173,7 @@ Kapsberger; Johann Hieronymus; Italia; 1580; 1651; Også Giovanni Girolamo
 Lewkovitch; Bernhard; Danmark; 1927; 2024;
 Monteverdi; Claudio; Italia; 1567; 1643;
 Musorgskij; Modest; Russland; 1839; 1881;
+Mysliveček; Josef; Tsjekkia; 1737; 1781; Venn av Mozart-familien
 Nordensten; Frank Tveor; Norge; 1955; ;
 Palestrina; Giovanni Pierluigi; Italia; 1525; 1594;
 Penderecki; Krzysztof; Polen; 1933; 2020;
@@ -1194,6 +1204,7 @@ Wieniawski; Józef; Polen; 1837; 1912;
 11
 Butterworth; Arthur; England; 1923; 2014;
 Butterworth; George; England; 1885; 1916;
+Černohorský; Bohuslav Matěj; Tsjekkia; 1684; 1742;
 Charpentier; Gustave; Frankrike; 1860; 1956;
 Charpentier; Marc-Antoine; Frankrike; 1643; 1704;
 Christensen; Bernhard; Danmark; 1906; 2004;
