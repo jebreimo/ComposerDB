@@ -887,7 +887,8 @@ Hartmann; Johan Ernst; Danmark; 1770; 1844;
 Hartmann; Johann; Tyskland, Danmark; 1726; 1793;
 Haugland; Glenn Erik; Norge; 1961; ;
 Hedstrøm; Åse; Norge; 1950; ;
-Hellmuth; Paul; Danmark; ; ;
+Hellmuth; Paul; Danmark; 1879; 1919;
+Heppener; Robert; Nederland; 1925; 2009;
 Herrmann; Bernard; USA; 1911; 1975; Vertigo
 Hillborg; Anders; Sverige; ; ;
 Hjellemo; Ole; Norge; 1873; 1938;
