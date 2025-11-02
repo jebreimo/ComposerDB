@@ -729,7 +729,7 @@ Nielsen; Carl; Danmark; 1865; 1931;
 Nielsen; Ludolf; Danmark; ; ;
 Nilsson; Bo; Sverige; ; ;
 Nystedt; Knut; Norge; 1915; 2014;
-Nørgård; Per; Danmark; 1932; ;
+Nørgård; Per; Danmark; 1932; 2025;
 Nørholm; Ib; Danmark; ; ;
 Parsons; Michael; England; 1938; ;
 Paulsen; Alfred; Norge; 1848; 1936;
@@ -1156,6 +1156,7 @@ Birtwistle; Harrison; England; 1934; 2022;
 Boccherini; Luigi; Italia; 1743; 1805;
 Brachrogge; Hans; Danmark; 1590; 1638;
 Canteloube; Joseph; Frankrike; 1879; 1957;
+Chédeville; Nicolas de; Frankrike; 1705; 1782; utga musikk som Vivaldi
 Clemmensen; Niels; Danmark; 1900; 1950;
 Ferrabosco; Alfonso; England; 1575; 1628;
 Gottschalk; Louis Moreau; USA; 1829; 1869;
