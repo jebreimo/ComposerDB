@@ -172,6 +172,7 @@ Busch; Volkmar; Danmark; 1812; 1893;
 Börtz; Daniel; Sverige; 1943; ;
 Carse; Adam; England; 1878; 1958;
 Cilea; Francesco; Italia; 1866; 1950; Operaer
+Cirri; Giovanni Battista; Italia; 1724; 1808;
 Cleve; Halvdan; Norge; 1879; 1953;
 Cooke; Arnold; England; 1906; 2005;
 Cowie; Edward; England; 1943; ;
@@ -715,6 +716,7 @@ Machaut; Guillaume de; Frankrike; 1300; 1377;
 Malling; Otto; Danmark; ; ;
 Mancini; Henry; USA; 1924; 1994;
 Mankell; Henning; Sverige; ; ;
+Martini; Giovanni Battista; Italia; 1706; 1784;
 Mathias; William; Storbritannia; 1934; 1992;
 Meincke; Carl Viggo; Danmark; ; ;
 Milford; Robin; England; 1903; 1959;
