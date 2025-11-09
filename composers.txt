@@ -803,6 +803,7 @@ Youmans; Vincent; USA; 1898; 1946;
 8
 Agersnap; Harald; Danmark; 1899; 1982;
 Ahlström; Jacob Niclas; Sverige; 1805; 1857;
+Albinoni; Tomaso Giovanni; Italia; 1671; 1751;
 Almqvist; Carl Jonas Love; Sverige; 1793; 1866;
 Andersen; Aksel; Danmark; 1912; 1977;
 Andersen; Arvid; Danmark; 1909; 1970;
@@ -928,7 +929,9 @@ Lindeman; Ludvig Mathias; Norge; 1812; 1887;
 Lindeman; Ole Andreas; Norge; 1769; 1857;
 Lortzing; Albert; Tyskland; 1801; 1851; Spieloper
 Maconchy; Elizabeth; England; 1907; 1994;
+Marcello; Alessandro Ignazio; Italia; 1673; 1747;
 Marcello; Benedetto; Italia; 1686; 1739;
+Marcello; Rosanna Scalfi; Italia; 1700?; 1742?; Gift med Benedetto Marcello
 Martland; Steve; England; 1959; 2013;
 Mascagni; Pietro; Italia; 1863; 1945;
 Massenet; Jules; Frankrike; 1842; 1912;
