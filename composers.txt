@@ -978,6 +978,7 @@ Singelée; Jean Baptiste; Belgia; 1812; 1875;
 Skempton; Howard; England; 1947; ;
 Skrjabin; Aleksandr; Russland; 1872; 1915;
 Sommerro; Henning; Norge; 1952; ;
+Sondheim; Stephen Joshua; USA; 1930; 2021; Musicals
 Stalheim; Jostein; Norge; 1960; ;
 Stanford; Charles Villiers; Irland; 1852; 1924;
 Stedingk; Marie von; Sverige; 1799; 1868;
