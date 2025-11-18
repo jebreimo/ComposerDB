@@ -668,6 +668,7 @@ Helsted; Carl; Danmark; 1818; 1904;
 Helsted; Edvard; Danmark; 1816; 1900;
 Helsted; Gustav; Danmark; 1857; 1924;
 Hemberg; Eskil; Sverige; 1938; 2004;
+Henselt; Adolf von; Tyskland; 1814; 1889; Piano
 Herbert; Victor; USA; 1859; 1924;
 Holland; Theodore; England; 1878; 1947;
 Holmboe; Vagn; Danmark; 1909; 1996;
