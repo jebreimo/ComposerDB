@@ -590,6 +590,7 @@ Behrens; Johan Didrik; Norge; 1820; 1890;
 Bellini; Vincenzo; Italia; 1801; 1835;
 Bellman; Carl Michael; Sverige; 1740; 1795;
 Bennett; Richard Rodney; England; 1936; 2012;
+Bennett; William Sterndale; England; 1816; 1875;
 Bentzon; Jørgen; Danmark; 1897; 1951;
 Bentzon; Niels Viggo; Danmark; 1919; 2000;
 Berendt; Nicolai; Danmark; 1826; 1889;
