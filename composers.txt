@@ -512,7 +512,7 @@ Perosi; Lorenzo; Italia; 1872; 1956;
 Persen; John; Norge; 1941; ;
 Peyron; Ika; Sverige; 1845; 1922;
 Plagge; Wolfgang; Norge; 1960; ;
-Pleyel; Ignaz Joseph; Østerike; 1757; 1831;
+Pleyel; Ignaz Joseph; Østerike; 1757; 1831; Pianofabrikk
 Porter; Cole Albert; USA; 1891; 1964;
 Powell; John; England; 1963; ;
 Powell; Jonathan; England; 1969; ;
