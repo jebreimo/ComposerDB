@@ -35,6 +35,7 @@ Bach; Johann Christian; Tyskland; 1735; 1782; Virket i England
 Bach; Johann Sebastian; Tyskland; 1685; 1750;
 Bate; Stanley; England; 1911; 1959;
 Bath; Hubert; England; 1883; 1945;
+Beau; Luise Adolpha Le; Tyskland; 1850; 1927; 
 Beck; Thomas; Norge; 1899; 1963;
 Berg; Alban; Østerrike; 1885; 1935;
 Berg; Gunnar; Danmark; 1909; 1989;
@@ -500,6 +501,7 @@ Mozart; Leopold; Østerrike; 1719; 1787;
 Mozart; Wolfgang Amadeus; Østerrike; 1756; 1791;
 Muffat; Georg; Frankrike; 1653; 1704;
 Möller; Johannes; Sverige; 1981; ;
+Nathan; Isaac; Storbritannia, Australia; 1790; 1864; "Father of Australian music"
 Neruda; Franz Xaver; Danmark; 1843; 1915;
 Neruda; Johann Baptist Georg; Tsjekkia; 1708; 1780;
 Netzel; Laura; Sverige; 1839; 1927;
