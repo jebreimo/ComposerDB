@@ -645,7 +645,7 @@ Duruflé; Maurice; Frankrike; 1902; 1986;
 Easdale; Brian; England; 1909; 1995;
 Edström; Carin Bartosch; Sverige; 1965; ;
 Eskesen; Morten; Danmark; 1826; 1913;
-Farrenc; Louise; Frankrike; 11804; 1875;
+Farrenc; Louise; Frankrike; 1804; 1875;
 Foersom; Frederik; Danmark; 1805; 1854;
 Foersom; Peter Christian; Danmark; 1769; 1856;
 Foltmar; Johan; Danmark; 1714; 1794;
