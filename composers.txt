@@ -257,6 +257,7 @@ March; Andrew; England; 1973; ;
 Mason; Benedict; England; 1954; ;
 Mason; Grace Evangeline; England; 1994; ;
 Mawby; Colin; England; 1936; 2019;
+Méhul; Étienne Nicolas; Frankrike; 1763; 1817;
 Mertz; Johann Kaspar; Slovakia, Østerrike; 1806; 1856; Gitar
 Monti; Vittorio; Italia; 1868; 1922; Csárdás
 Moody; Ivan; England; 1964; 2024;
