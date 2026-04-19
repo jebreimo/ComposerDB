@@ -682,7 +682,7 @@ Herbert; Victor; USA; 1859; 1924;
 Holland; Theodore; England; 1878; 1947;
 Holmboe; Vagn; Danmark; 1909; 1996;
 Hopkins; Bill; England; 1943; 1981;
-Hovland; Egil; Norge; 1924; ;
+Hovland; Egil; Norge; 1924; 2013;
 Howells; Herbert; England; 1892; 1983;
 Humfrey; Pelham; England; 1647; 1674;
 Hvoslef; Ketil; Norge; 1939; ;
