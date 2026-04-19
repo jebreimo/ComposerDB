@@ -632,7 +632,7 @@ Copland; Aaron; USA; 1900; 1990;
 Corelli; Arcangelo; Italia; 1653; 1713;
 Corkine; William; England; <1610; 1617<;
 Cranner; Alf; Norge; 1936; 2020;
-Crusell; Bernhard Henrik; Sverige; 1775; 1838; Født i Finland
+Crusell; Bernhard Henrik; Finland, Sverige; 1775; 1838; Født i Finland
 Dafgård; Jörgen; Sverige; 1964; ;
 Dalberg; Nancy; Danmark; 1881; 1949;
 Debussy; Claude; Frankrike; 1862; 1918;
@@ -662,6 +662,7 @@ Gebauer; Johann Christian; Danmark; 1808; 1884;
 Geisler; Christian; Danmark; 1869; 1951;
 Gerlach; Carl Ludvig; Danmark; 1832; 1893;
 Gibbons; Jack; England; 1962; ;
+Gibbons; Orlando; England; 1583; 1625;
 Gilbert; Anthony; England; 1934; 2023;
 Goodall; Howard; England; 1958; ;
 Gurlitt; Cornelius; Tyskland; 1820; 1901;
