@@ -915,6 +915,7 @@ Jeppsson; Kerstin; Sverige; ; ;
 Johansen; David Monrad; Norge; 1888; 1974;
 Johanson; Sven-Eric; Sverige; ; ;
 Jommelli; Niccolò; Italia; 1714; 1774;
+Ketèlbey; Albert William; England; 1875; 1959;
 Kielland; Olav; Norge; 1901; 1985;
 Kindgren; Per-Olov; Sverige; ; ;
 Kjellsby; Erling; Norge; 1901; 1976;
