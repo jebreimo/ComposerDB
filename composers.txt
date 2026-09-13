@@ -73,7 +73,7 @@ Gade; Niels Wilhelm; Danmark; 1817; 1890;
 Gram; Peder; Danmark; 1881; 1956;
 Hahn; Reynaldo; Frankrike; 1874; 1947; Født i Venezuela
 Hall; Pauline; Norge; 1890; 1969;
-Haug; Halvor; Norge; 1952; ;
+Haug; Halvor; Norge; 1952; 2025;
 Holm; Ludvig; Danmark; 1858; 1928;
 Holm; Mogens Winkel; Danmark; 1936; 1999;
 Holm; Vilhelm Christian; Danmark; 1820; 1886;
