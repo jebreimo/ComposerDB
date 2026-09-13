@@ -871,6 +871,7 @@ Gassmann; Florian Leopold; Tsjekkia; 1729; 1774;
 Germeten; Gunnar; Norge; 1947; 1999;
 Gershwin; George; USA; 1898; 1937;
 Gesualdo; Carlo; Italia; 1566; 1613;
+Giordano; Umberto; Italia; 1867; 1948; Operaer
 Glazunov; Aleksandr; Russland; 1865; 1936;
 Goossens; Eugene; England; 1893; 1962;
 Grainger; Percy; Australia, USA; 1882; 1961;
