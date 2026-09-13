@@ -1304,7 +1304,7 @@ Peterson-Berger; Wilhelm; Sverige; 1867; 1942;
 Unander-Scharin; Carl; Sverige; 1964; ;
 
 16
-Coleridge-Taylor; Samuel; England; 1875; 1912;
+Coleridge-Taylor; Samuel; England; 1875; 1912; "The Song of Hiawatha"
 Fabricius-Bjerre; Bent; Danmark; 1924; 2020;
 Rimskij-Korsakov; Nikolaj; Russland; 1844; 1908;
 
