@@ -6,11 +6,22 @@ Bai; Kasper; Danmark; 1974; ;
 Bak; Frans; Danmark; 1958; ;
 Bax; Arnold; England; 1883; 1953;
 Bay; Rudolph; Danmark; 1791; 1856;
+Cox; Cindy; USA; 1961; ;
 Cui; César Antonovich; Russland; 1835; 1918;
+Een; Robert; USA; 1952; ;
 Eje; Niels; Danmark; 1954; ;
+Erb; Donald; USA; 1927; 2008;
+Fax; Mark Oakland; USA; 1911; 1974;
+Fox; Donal; USA; 1952; ;
+Fox; Frederick; USA; 1931; 2011;
+Fry; William Henry; USA; 1813; 1864;
 Hak; Mads; Danmark; 1500; 1555;
+Kay; Ulysses; USA; 1917; 1995;
+Kim; Earl; USA; 1920; 1998;
 Kyd; Jesper; Danmark; 1972; ;
 Kyr; Robert Harry; USA; 1952; ;
+Law; Andrew; USA; 1749; 1821;
+Lee; Thomas Oboe; USA; 1945; ;
 Lie; Harald; Norge; 1902; 1942;
 Lie; Sigurd; Norge; 1871; 1904;
 Maw; Nicholas; England; 1935; 2009;
@@ -23,31 +34,42 @@ Puy; Jean Baptiste Édouard Du; Sveits, Danmark; 1770; 1822;
 Roe; Betty; England; 1930; ;
 Sor; Fernando; Spania; 1778; 1839; Gitar
 Suk; Josef; Tsjekkia; 1874; 1935;
+Tao; Conrad; USA; 1994; ;
 Vea; Ketil; Norge; 1932; ;
 
 4
 Abel; Carl Friedrich; Tyskland; 1723; 1787; Viola da gamba
 Adam; Adolphe; Frankrike; 1803; 1856;
 Adès; Thomas; England; 1971; ;
+Asia; Daniel; USA; 1953; ;
 Bach; Carl Philipp Emanuel; Tyskland; 1714; 1788;
 Bach; Erik; Danmark; 1946; ;
+Bach; Jan; USA; 1937; 2020;
 Bach; Johann Christian; Tyskland; 1735; 1782; Virket i England
 Bach; Johann Sebastian; Tyskland; 1685; 1750;
 Bate; Stanley; England; 1911; 1959;
 Bath; Hubert; England; 1883; 1945;
 Beau; Luise Adolpha Le; Tyskland; 1850; 1927; 
+Beck; Jeremy; USA; 1960; ;
+Beck; Johann; USA; 1856; 1924;
 Beck; Thomas; Norge; 1899; 1963;
 Berg; Alban; Østerrike; 1885; 1935;
 Berg; Gunnar; Danmark; 1909; 1989;
 Berg; Isak Albert; Sverige; 1803; 1886;
 Berg; Natanael; Sverige; 1879; 1957;
 Berg; Olav; Norge; 1949; ;
+Bird; Arthur; USA; 1856; 1923;
 Blom; Christian; Norge; 1782; 1861; Sønner av Norge
+Boda; John; USA; 1922; 2002;
 Borg; Kim; Finland; 1919; 2000;
 Borg; Oscar; Norge; 1851; 1930;
 Bray; Charlotte; England; 1982; ;
+Bray; John; USA; 1782; 1822;
 Brel; Jaque; Belgia; 1929; 1978; Sanger
+Buck; Dudley; USA; 1839; 1909;
 Buck; Ole; Danmark; 1945; ;
+Budd; Harold; USA; 1936; 2020;
+Bull; Amos; USA; 1744; 1825;
 Bull; Edvard Hagerup; Norge; 1922; 2012;
 Bull; John; Storbritannia; 1562; 1628; "God Save the Queen"
 Bull; Ole; Norge; 1810; 1880;
@@ -56,87 +78,165 @@ Bush; Geoffrey; England; 1920; 1998;
 Byrd; William; England; 1540; 1623;
 Bäck; Sven-Erik; Sverige; 1919; 1994;
 Bøgh; Erik; Danmark; 1822; 1899;
+Cage; John; USA; 1912; 1992;
+Carr; Benjamin; USA; 1768; 1831;
 Carr; Paul; England; 1961; ;
+Cohn; James; USA; 1928; 2021;
+Cole; John; USA; 1774; 1855;
+Cone; Edward; USA; 1917; 2004;
+Cook; Will Marion; USA; 1869; 1944;
 Corp; Ronald; England; 1951; ;
 Cour; Niels la; Danmark; 1944; ;
 Dahl; Balduin; Danmark; 1834; 1891;
+Dare; Elkanah Kelsey; USA; 1782; 1826;
 Davy; Richard; England; 1465; 1507;
+Dédé; Edmond; USA; 1827; 1903;
+Dett; Robert Nathaniel; USA; 1882; 1943;
 Dove; Jonathan; England; 1959; ;
+Duke; John Woods; USA; 1899; 1984;
+Duke; Vernon; USA; 1903; 1969;
 Egge; Klaus; Norge; 1906; 1979;
 Enna; August; Danmark; 1859; 1939;
+Fine; Irving; USA; 1914; 1963;
+Fine; Vivian; USA; 1913; 2000;
 Flem; Kjell; Norge; 1943; ;
 Ford; Thomas; England; 1580; 1648;
 Foss; Julius; Danmark; 1879; 1953;
+Foss; Lukas; USA; 1922; 2009;
+Funk; Joseph; USA; 1778; 1862;
 Gade; Axel; Danmark; 1860; 1921;
 Gade; Jacob; Danmark; 1879; 1963; Jalousie "Tango Tzigane"
 Gade; Niels Wilhelm; Danmark; 1817; 1890;
+Gann; Kyle; USA; 1955; ;
+Goeb; Roger; USA; 1914; 1997;
+Goff; Ezra; USA; 1760; 1828;
 Gram; Peder; Danmark; 1881; 1956;
 Hahn; Reynaldo; Frankrike; 1874; 1947; Født i Venezuela
+Hall; Amariah; USA; 1758; 1827;
+Hall; Frederick Douglass; USA; 1898; 1982;
+Hall; Juliana; USA; 1958; ;
 Hall; Pauline; Norge; 1890; 1969;
+Hall; Roger Lee; USA; 1942; ;
 Haug; Halvor; Norge; 1952; 2025;
+Hill; Edward Burlingame; USA; 1872; 1960;
 Holm; Ludvig; Danmark; 1858; 1928;
 Holm; Mogens Winkel; Danmark; 1936; 1999;
 Holm; Vilhelm Christian; Danmark; 1820; 1886;
+Holt; Benjamin; USA; 1774; 1861;
+Holt; Nora; USA; 1884; 1974;
 Holt; Simon; England; 1958; ;
+Howe; Mary; USA; 1882; 1964;
+Hunt; Jerry; USA; 1943; 1993;
+Husa; Karel; USA; 1921; 2016;
+Huss; Henry Holden; USA; 1862; 1953;
 Hägg; Gustaf; Sverige; 1867; 1925;
 Hägg; Jacob Adolf; Sverige; 1850; 1928;
+Ince; Kamran; USA; 1960; ;
 Ives; Charles; USA; 1874; 1954;
 Ives; Grayston; England; 1948; ;
+Ivey; Jean Eichelberger; USA; 1923; 2010;
+Joio; Norman Dello; USA; 1913; 2008;
 Jouy; Anne Louise Brillon de; Frankrike; 1744; 1824;
 Kern; Jerome David; USA; 1885; 1945; Musicals
+Kerr; Thomas Henderson; USA; 1915; 1988;
+King; Betty Jackson; USA; 1928; 1994;
+Knox; Charles; USA; 1929; 2019;
 Koch; Erland von; Sverige; 1910; 2009;
 Koch; Jesper; Danmark; 1967; ;
+Kohs; Ellis; USA; 1916; 2000;
 Kvam; Oddvar S.; Norge; 1927; 2016;
 Lalo; Édouard; Frankrike; 1823; 1892;
+Lamb; Joseph; USA; 1887; 1960;
+Lang; Benjamin Johnson; USA; 1837; 1909;
+Lang; Margaret Ruthven; USA; 1867; 1972;
 Laub; Thomas; Danmark; 1852; 1927;
+Lees; Benjamin; USA; 1924; 2010;
+Levy; Marvin David; USA; 1932; 2015;
 Lund; Signe; Norge; 1868; 1950;
+Lyon; James; USA; 1735; 1794;
+Mann; Elias; USA; 1750; 1825;
+Manz; Paul; USA; 1919; 2009;
 Maza; Eduardo Sainz De La; Spania; 1903; 1982; Gitar
 Maza; Regino Sainz de la; Spania; 1896; 1981; Gitar
+Monk; Meredith; USA; 1942; ;
 Ness; Jon Øivind; Norge; 1968; ;
+Noon; David; USA; 1946; ;
 Nunn; Patrick; England; 1969; ;
 Olin; Elisabeth; Sverige; 1740; 1828; Operasanger
 Oram; Daphne; England; 1925; 2003;
 Orff; Carl; Tyskland; 1895; 1982;
 Pade; Else Marie; Danmark; 1924; 2016;
 Pade; Steen; Danmark; 1956; ;
+Pann; Carter; USA; 1972; ;
 Prés; Josquin des; Frankrike; 1450; 1521; egentlig Lebloitte, også Des Prez og Desprez
 Pärt; Arvo; Estland; 1935; ;
 Rabe; Folke; Sverige; 1935; 2017;
+Read; Daniel; USA; 1757; 1836;
+Read; Gardner; USA; 1913; 2005;
 Ries; Ferdinand; Tyskland; 1784; 1838; "Beethoven's right hand man"
 Rihm; Wolfgang; Tyskland; 1952; ;
 Ring; Oluf; Danmark; 1884; 1946;
+Root; George Frederick; USA; 1820; 1895;
 Rota; Nino; Italia; 1911; 1979; Filmmusikk, Gudfaren
 Rung; Frederik; Danmark; 1854; 1914;
 Rung; Henrik; Danmark; 1807; 1871;
 Sanz; Gaspar; Spania; 1640; 1710;
 Shaw; Christopher; England; 1925; 1995;
+Shaw; Oliver; USA; 1779; 1848;
 Siem; Sasha; England; 1984; ;
 Skov; Kira; Danmark; 1976; ;
+Smit; Leo; USA; 1921; 1999;
 Sund; John; Danmark; 1957; ;
+Susa; Conrad; USA; 1935; 2013;
+Swan; Timothy; USA; 1758; 1842;
 Tate; Phyllis; England; 1911; 1987;
+Toch; Ernst; USA; 1887; 1964;
+Tull; Fisher; USA; 1934; 1994;
 Tůma; František; Tsjekkia; 1704; 1774;
 Ulvo; Therese Birkelund; Norge; 1982; ;
+Urie; Nicholas; USA; 1985; ;
 Wade; John Francis; Storbritannia; 1711; 1786;
+Ward; Robert; USA; 1917; 2013;
 Weir; Judith; England; 1954; ;
 Weis; Flemming; Danmark; 1898; 1981;
 West; Tue; Danmark; 1977; ;
+Wild; Earl; USA; 1915; 2010;
 Wolf; Hugo; Tyskland; 1860; 1903; Lieder
+Wood; Abraham; USA; 1752; 1804;
+Work; John Wesley; USA; 1901; 1967;
 Zach; Jan; Tsjekkia; 1713; 1773;
+Zare; Roger; USA; 1985; ;
 
 5
 Abell; David; Danmark; 1510?; 1576;
+Abels; Michael; USA; 1962; ;
 Abras; Juan Manuel; Sverige; 1975; ;
+Adamo; Mark; USA; 1962; ;
 Adams; John Coolidge; USA; 1947; ;
+Adams; John Luther; USA; 1953; ;
+Adams; Leslie; USA; 1932; 2024;
+Adler; James; USA; 1950; ;
+Adler; Samuel; USA; 1928; ;
+Allen; Benjamin Dwight; USA; 1841; 1914;
 Allen; Georg Frederik Ferdinand; Danmark; 1856; 1925;
+Allen; Paul Hastings; USA; 1882; 1952;
 Allen; Robert William Otto; Danmark; 1852; 1888;
 Allin; Arthur Ivan; Danmark; 1847; 1926;
 Alnæs; Eyvind; Norge; 1872; 1932;
 Alwyn; William; England; 1905; 1985;
+Amlin; Martin; USA; 1953; ;
+Amram; David; USA; 1930; ;
 Anker; Lotte; Danmark; 1958; ;
+Antes; John; USA; 1740; 1811;
+Askim; Peter; USA; 1971; ;
 Auber; Daniel-François; Frankrike; 1782; 1871; Opera
 Aulin; Tor; Sverige; 1866; 1914;
 Aulin; Laura Valborg; Sverige; 1860; 1928;
+Avery; Stanley; USA; 1897; 1967;
+Ayres; Frederick; USA; 1876; 1926;
+Bacon; Ernst; USA; 1898; 1990;
 Baden; Conrad; Norge; 1908; 1989;
+Baker; David; USA; 1931; 2016;
 Bakke; Ruth; Norge; 1947; ;
 Balle; Carl Christian Nicolaj; Danmark; 1806; 1855;
 Barns; Ethel; England; 1874; 1948;
@@ -144,6 +244,8 @@ Barth; Christian Frederik; Danmark; 1787; 1861;
 Barth; Frederik Philip Carl August; Tyskland, Danmark; 1775; 1804;
 Barth; Frode; Norge; 1968; ;
 Barth; Wilhelm Herman; Danmark; 1813; 1896;
+Bates; Issachar; USA; 1758; 1837;
+Bauer; Marion; USA; 1882; 1955;
 Beach; Amy; USA; 1867; 1944;
 Berge; Håkon; Norge; 1954; ;
 Bergh; Ilja; Danmark; 1927; 2015;
@@ -153,6 +255,7 @@ Biber; Heinrich Ignaz Franz; Østerike; 1644; 1704;
 Binge; Ronald; England; 1910; 1979; Light music
 Bizet; Georges; Frankrike; 1838; 1875;
 Blake; Eubie; USA; 1887; 1983; Nitimen
+Bland; Edward; USA; 1926; 2013;
 Bliss; Arthur; England; 1891; 1975;
 Boije; Betty; Sverige; 1822; 1854;
 Bonno; Guiseppe; Østerrike; 1711; 1788;
@@ -453,15 +556,22 @@ Hauger; Kristian; Norge; 1905; 1977;
 Hegdal; Magne; Norge; 1944; ;
 Hegner; Anton; Danmark; 1861; 1915;
 Hegner; Ludvig; Danmark; 1851; 1923;
+Herbst; Johannes; USA; 1735; 1812;
+Hewitt; James; USA; 1770; 1827;
+Higdon; Jennifer; USA; 1962; ;
+Holden; Oliver; USA; 1765; 1844;
 Holten; Bo; Danmark; 1948; ;
+Horvit; Michael; USA; 1932; ;
 Holter; Iver; Norge; 1850; 1941;
 Hummel; Johann Nepomuk; Østerrike; 1778; 1837;
 Händel; Georg Friedrich; Tyskland; 1685; 1759;
 Hérold; Ferdinand; Frankrike; 1797; 1833; Operaer
+Imbrie; Andrew; USA; 1921; 2007;
 Jacobi; Carl Heinrich; Tyskland; 1791; 1852;
+Jacobi; Frederick; USA; 1891; 1952;
 Janson; Alfred; Norge; 1937; 2019;
 Jensen; Niels Peter; Danmark; 1802; 1846;
-Joplin; Scott; USA; 1868; 1917; Ragtime
+Joplin; Scott; USA; 1867; 1917; Ragtime
 Jordan; Sverre; Norge; 1889; 1972;
 Kayser; Leif; Danmark; 1919; 2001;
 Klenau; Paul von; Danmark; 1883; 1946;
@@ -1146,6 +1256,7 @@ Sandström; Jan; Sverige; ; ;
 Sandström; Sven-David; Sverige; ; ;
 Scarlatti; Alessandro; Italia; 1660; 1725;
 Scarlatti; Domenico; Italia; 1685; 1757;
+Scarlatti; Pietro Filippo; 1679; 1750;
 Schaathun; Asbjørn; Norge; 1961; ;
 Schindler; Poul Christian; Danmark; ; ;
 Schönberg; Arnold; Østerrike; 1874; 1951;
@@ -1217,11 +1328,14 @@ Thommessen; Olav Anton; Norge; 1946; ;
 Thommessen; Reidar; Norge; 1889; 1986;
 Vieuxtemps; Henri François Joseph; Belgia; 1820; 1881; Fiolin
 Waldteufel; Émile; Frankrike; 1837; 1915;
+Weinberger; Jaromír; USA; 1896; 1967;
 Wennerberg; Gunnar; Sverige; 1817; 1901;
 Wieniawski; Henryk; Polen; 1835; 1880;
 Wieniawski; Józef; Polen; 1837; 1912;
 
 11
+Amirkhanian; Charles; USA; 1945; ;
+Archambault; Timothy; USA; 1971; ;
 Butterworth; Arthur; England; 1923; 2014;
 Butterworth; George; England; 1885; 1916;
 Černohorský; Bohuslav Matěj; Tsjekkia; 1684; 1742;
@@ -1250,27 +1364,34 @@ Lopes-Graça; Fernando; Portugal; 1906; 1994;
 Løvenskiold; Frederikke; Danmark; 1785; 1876;
 Mendelssohn; Fanny; Tyskland; 1805; 1847;
 Mendelssohn; Felix; Tyskland; 1809; 1847;
+Persichetti; Vincent; USA; 1915; 1987;
 Rakhmaninov; Sergej; Russland; 1873; 1943;
 Rung-Keller; Paul Sophus Christian Henrik; Danmark; 1879; 1966;
 Saint-Saëns; Camille; Frankrike; 1835; 1921;
 Schjelderup; Gerhard; Norge; 1859; 1933;
+Schoenefeld; Henry; USA; 1857; 1936;
+Siegmeister; Elie; USA; 1909; 1991;
 Sommerfeldt; Øistein; Norge; 1919; 1975;
 Stravinskij; Igor; Russland; 1882; 1971;
 Szymanowska; Maria; Polen; 1789; 1831; Piano
 Szymanowski; Karol Maciej; Polen; 1882; 1937;
 Thegerström; Hilda; Sverige; 1838; 1907;
 Theodorakis; Mikis; Hellas; 1925; 2021;
+Theofanidis; Christopher; USA; 1967; ;
 Torstensson; Klas; Sverige; 1951; ;
+Ussachevsky; Vladimir; USA; 1911; 1990;
 Ustvolskaja; Galina; Russland; 1919; 2006;
 Villa-Lobos; Heitor; Brasil; 1887; 1959;
 Waesterberg; Amanda Sandborg; Sverige; 1842; 1918;
 Waley-Cohen; Freya; England; 1989; ;
+Westergaard; Peter; USA; 1931; 2019;
 Westergaard; Svend; Danmark; 1922; 1988;
 
 12
 Bortnjanskij; Dmitrij; Russland; 1751; 1825;
 Christiansen; Asger Lund; Danmark; 1927; 1998;
 Christiansen; Henning; Danmark; 1932; 2008;
+Curtis-Smith; Curtis; USA; 1941; 2014;
 Grüner-Hegge; Odd; Norge; 1899; 1973;
 Lange-Müller; Peter Erasmus; Danmark; 1850; 1926;
 Monn-Iversen; Egil; Norge; 1928; 2017;
@@ -1287,6 +1408,7 @@ Khatsjaturjan; Aram; Russland; 1903; 1978;
 Röntgen-Maier; Amanda; Sverige; 1853; 1894;
 Saint-Georges; Joseph Bologne; Frankrike; 1745; 1799; Chevalier de Saint-Georges, "Black Mozart"
 Sjostakovitsj; Dmitri; Russland; 1906; 1975;
+Ward-Steinman; David; USA; 1936; 2015;
 Wieth-Knudsen; Knud Asbjørn; Danmark; 1878; 1962;
 
 14
@@ -1301,6 +1423,7 @@ Griebel-Wandall; Tekla; Danmark; 1866; 1940;
 Hely-Hutchinson; Victor; England; 1901; 1947;
 Kramer-Johansen; Jolly; Norge; 1902; 1968;
 Peterson-Berger; Wilhelm; Sverige; 1867; 1942;
+Tobias-Duesberg; Helen; USA; 1919; 2010;
 Unander-Scharin; Carl; Sverige; 1964; ;
 
 16
